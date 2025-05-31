@@ -1,0 +1,196 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>$TACO Coin - Trump Always Chickens Out</title>
+  <style>
+    body {
+      background: linear-gradient(-45deg, #111, #222, #ff9900, #ffcc00);
+      background-size: 400% 400%;
+      animation: gradientShift 15s ease infinite;
+      color: #fff;
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    @keyframes gradientShift {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+
+    header {
+      background: #ff9900;
+      color: #000;
+      padding: 20px;
+      text-align: center;
+    }
+
+    header img {
+      width: 150px;
+      height: auto;
+      border-radius: 10px;
+      margin-bottom: 10px;
+      box-shadow: 0 0 15px #000;
+    }
+
+    nav {
+      text-align: center;
+      padding: 10px;
+      background: #222;
+    }
+
+    nav a {
+      color: #ffcc00;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .container {
+      padding: 40px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+
+    .hero {
+      text-align: center;
+    }
+
+    .hero h1 {
+      font-size: 3em;
+      margin-bottom: 0;
+      text-shadow: 0 0 10px #ffcc00, 0 0 20px #ff9900;
+    }
+
+    .hero p {
+      font-size: 1.2em;
+    }
+
+    .section {
+      margin-top: 50px;
+    }
+
+    h2 {
+      text-shadow: 0 0 10px #ffcc00, 0 0 20px #ff9900;
+    }
+
+    .button {
+      background: #ffcc00;
+      color: #000;
+      padding: 12px 24px;
+      text-decoration: none;
+      font-weight: bold;
+      display: inline-block;
+      margin-top: 20px;
+      border-radius: 5px;
+      box-shadow: 0 0 10px #ffcc00;
+      animation: pulse 1.5s infinite;
+    }
+
+    @keyframes pulse {
+      0% { box-shadow: 0 0 10px #ffcc00; }
+      50% { box-shadow: 0 0 20px #ff9900; }
+      100% { box-shadow: 0 0 10px #ffcc00; }
+    }
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    ul li {
+      margin-bottom: 10px;
+      font-size: 1.1em;
+    }
+
+    ol {
+      padding-left: 20px;
+    }
+
+    .footer {
+      text-align: center;
+      padding: 20px;
+      background: #222;
+      color: #ffcc00;
+      font-weight: bold;
+    }
+
+    .meme-image {
+      max-width: 100%;
+      border-radius: 10px;
+      box-shadow: 0 0 15px #ffcc00;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <img src="95ece34a-8b4a-4376-9d74-cad62e9eb23b.png" alt="$TACO Meme">
+    <h1>$TACO Coin 🌮</h1>
+    <p>Trump Always Chickens Out</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#why">Why TACO?</a>
+    <a href="#how-to-buy">How to Buy</a>
+    <a href="#meme">Meme</a>
+  </nav>
+
+  <div class="container">
+    <section class="hero">
+      <h1>🌮 The Meme Coin You’ll Regret Missing</h1>
+      <p>$TACO isn’t just a token — it’s a viral grenade disguised as a taco. Satirical, savage, and spicy enough to light up your wallet.</p>
+      <p><strong>This is gonna take off — buy now. This is the next big thing.</strong></p>
+      <a class="button" href="#">Buy $TACO Now</a>
+    </section>
+
+    <section class="section" id="about">
+      <h2>🌮 About $TACO</h2>
+      <p>Born from the viral “Trump Always Chickens Out” meme, $TACO is a no-rules, no-limit meme coin made for max internet chaos. No team tokens. No VC. No leash. Just full degen energy.</p>
+      <p><strong>$TACO launches with an ultra-low market cap — perfect for early buyers looking to ride the biggest pump of 2025.</strong></p>
+      <p>This is the most viral meme in the game right now. It will be aggressively promoted, picked up by the degens, and designed to dominate trending charts.</p>
+      <p><strong>Will be live and trackable on DEX Screener as soon as liquidity is launched.</strong></p>
+    </section>
+
+    <section class="section" id="why">
+      <h2>🚨 Why TACO? 🌮</h2>
+      <ul>
+        <li>🗳️ Timed perfectly with U.S. election season</li>
+        <li>🌮 Taco + Trump = internet gold</li>
+        <li>🐔 Designed to spark debates, headlines, and chart movement</li>
+        <li>🧠 Satirical, savage, and Gen Z-ready</li>
+        <li>⚡ Ultra-low cap = maximum pump potential</li>
+        <li>🚀 Will be pushed hard across meme channels</li>
+      </ul>
+      <p><strong>Join the $TACO stand before it’s wrapped up — the meme militia’s already marching.</strong></p>
+    </section>
+
+    <section class="section" id="how-to-buy">
+      <h2>💸 How to Buy $TACO 🔥</h2>
+      <ol>
+        <li>Download Phantom wallet (or any Solana wallet)</li>
+        <li>Get SOL on an exchange and send it to your wallet</li>
+        <li>Use your favorite Solana DEX to swap SOL for $TACO</li>
+        <li>📈 HODL, meme, and watch the chart explode</li>
+      </ol>
+    </section>
+
+    <section class="section" id="meme">
+      <h2>🔥 Meme Origin</h2>
+      <p>This is the image that sparked the movement. The moment Trump became $TACO.</p>
+      <img class="meme-image" src="95ece34a-8b4a-4376-9d74-cad62e9eb23b.png" alt="Trump in Chicken Suit Meme">
+      <p><a href="https://x.com/rpsagainsttrump/status/1928183888028877076?s=46" target="_blank" style="color:#ffcc00; font-weight:bold;">View original meme on Twitter/X →</a></p>
+    </section>
+  </div>
+
+  <footer class="footer">
+    🚀 $TACO is blowing up — the most trending meme right now. Don't miss the rocket. Buy now or cry later.
+  </footer>
+
+</body>
+</html>
